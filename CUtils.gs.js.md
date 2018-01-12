@@ -1,4 +1,8 @@
-# Library
+# This Library's URL
+
+https://script.google.com/macros/library/versions/d/1BlJbwxq9lAYuTnGqm8R-xM563bjWWCDd5Vsf8hOXxScixki2kihWepMS
+
+# Related Libraries
 
 ## Later v1
 https://script.google.com/macros/library/versions/d/1KsPp98JRLThyF_GEBbX1pVI07q_f23En7HKphqQMXkhKYPu-3S6Lw_G7
@@ -12,3 +16,5 @@ https://script.google.com/macros/library/versions/d/1yzaSmLB2aNXtKqIrSZ92SA4D14x
 # Script property
 
 N/A
+
+
