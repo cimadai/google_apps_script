@@ -11,7 +11,7 @@
  * @param {string} jinjerPw Jinjerのログインパスワード
  * @return {SessionInfo} sessionInfo ログイン後に取得できるセッションIDとトークン。
  */
-function getJinjerLoginInfo(jinjerUid, jinjerPw) {
+function getJinjerLoginInfo(companyCode, jinjerUid, jinjerPw) {
     var url = "https://kintai.jinjer.biz/v1/manager/sign_in";
     var headers = {
         "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
@@ -20,7 +20,7 @@ function getJinjerLoginInfo(jinjerUid, jinjerPw) {
     var payload = {
         "email": jinjerUid,
         "password": jinjerPw,
-        "company_code": "1180"
+        "company_code": companyCode
     };
     var options = {
         method : 'post',

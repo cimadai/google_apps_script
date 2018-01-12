@@ -10,6 +10,3 @@ https://script.google.com/macros/library/versions/d/1yzaSmLB2aNXtKqIrSZ92SA4D14x
 # Script property
 
 N/A
-
-
-
